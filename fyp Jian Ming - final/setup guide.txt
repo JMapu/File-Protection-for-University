@@ -1,0 +1,5 @@
+Setup for program. (in Windows 10)
+1. install Python 3.10
+2. pip install pycryptodomex
+3. pip install pyotp
+4. run login.py on Visual Studio
